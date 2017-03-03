@@ -13,8 +13,8 @@
           "category": "Axio",
           "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/ms500-1.0.0.zip?raw=true",
           "archiveFileName": "ms500-1.0.0.zip",
-          "checksum": "SHA-256:20685c52874c60430ac1a2d01be64d0c7751a94a8806b6c54725eeced6fae9d8",
-          "size": "331473",
+          "checksum": "SHA-256:5ac477646311992a22263de9028f98264b60f44fd02b886d21bcca979af2f8ce",
+          "size": "331481",
           "boards": [
             {
               "name": "Axio DK MS500"
