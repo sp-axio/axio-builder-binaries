@@ -7,7 +7,7 @@
       "email": "tech@securityplatform.co.kr",
       "platforms": [
         {
-          "name": "Axio Builder",
+          "name": "Axio Builder Boards",
           "architecture": "ms500",
           "version": "1.0.0",
           "category": "Axio",
@@ -17,7 +17,7 @@
           "size": "331473",
           "boards": [
             {
-              "name": "Axio Builder MS500"
+              "name": "Axio DK MS500"
             }
           ],
           "toolsDependencies": [
