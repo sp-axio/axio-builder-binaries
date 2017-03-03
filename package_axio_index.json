@@ -1,0 +1,100 @@
+{
+  "packages": [
+    {
+      "name": "SecurityPlatform",
+      "maintainer": "Security Platform Inc.",
+      "websiteURL": "http://www.securityplatform.co.kr",
+      "email": "tech@securityplatform.co.kr",
+      "platforms": [
+        {
+          "name": "Axio",
+          "architecture": "ms500",
+          "version": "1.0.0",
+          "category": "Axio",
+          "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/ms500-1.0.0.zip?raw=true",
+          "archiveFileName": "ms500-1.0.0.zip",
+          "checksum": "SHA-256:64807c357c98f55be73929101c12011cd1047bcce3de8dd6b1e34b4a5f414b7a",
+          "size": "331473",
+          "boards": [
+            {
+              "name": "Axio"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "SecurityPlatform",
+              "name": "sign_fw",
+              "version": "1.0.0"
+            },
+            {
+              "packager": "SecurityPlatform",
+              "name": "axtool",
+              "version": "1.1.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "axtool",
+          "version": "1.1.0",
+          "systems": [
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.1.0-linux_64bit.tar.gz?raw=true",
+              "archiveFileName": "axtool-1.1.0-linux_64bit.tar.gz",
+              "checksum": "SHA-256:33be7437360ad51f1f0148446b57360b34c92403d55b274995cc71cda353c792",
+              "size": "843230"
+            },
+            {
+              "host": "i686-linux-gnu",
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.1.0-linux_32bit.tar.gz?raw=true",
+              "archiveFileName": "axtool-1.1.0-linux_32bit.tar.gz",
+              "checksum": "SHA-256:8c371a222cf1952f1fabe288dc47fc32b553c46a1c82a5621f278e92636ec1f4",
+              "size": "607887"
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.1.0-windows.zip?raw=true",
+              "archiveFileName": "axtool-1.1.0-windows.zip",
+              "checksum": "SHA-256:f52e036a9c36c19b8e33e8dce7012348f6b728386c81c6f7d1085bbfe92fbe9f",
+              "size": "629079"
+            }
+          ]
+        },
+        {
+          "name": "sign_fw",
+          "version": "1.0.0",
+          "systems": [
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/sign_fw-1.0.0-linux_64bit.tar.gz?raw=true",
+              "archiveFileName": "sign_fw-1.0.0-linux_64bit.tar.gz",
+              "checksum": "SHA-256:805b8b53e8bfdcae92f237a0d30e5aef376b8a1947278f2fc25b376a96305d13",
+              "size": "742194"
+            },
+            {
+              "host": "i686-linux-gnu",
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/sign_fw-1.0.0-linux_32bit.tar.gz?raw=true",
+              "archiveFileName": "sign_fw-1.0.0-linux_32bit.tar.gz",
+              "checksum": "SHA-256:37acd2463d17cce0c264af403acdeedd7eacadb457e78c3b7fa45b3b3da90507",
+              "size": "544660"
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/sign_fw-1.0.0-windows.zip?raw=true",
+              "archiveFileName": "sign_fw-1.0.0-windows.zip",
+              "checksum": "SHA-256:7a8c4d7bc6dd53ae152e8dbe0733fda02aa22be79ee1cdabec8bc8079c02713d",
+              "size": "566029"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
