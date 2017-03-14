@@ -3,3 +3,5 @@
 * axtool is for uploading firmware/second loader/certificate to Axio Builder.
 * axsign is used to sign the firmware that upload to the Axio Builder.
 * For more information and how to apply it to the Arduino IDE, see the [wiki page](https://github.com/sp-axio/axio-builder-binaries/wiki).
+
+![Axio Builder](https://raw.githubusercontent.com/sp-axio/axio-builder-binaries/master/mediawiki/images/AxioBuilder_002s.png)
