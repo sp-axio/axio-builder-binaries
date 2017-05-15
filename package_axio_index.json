@@ -24,12 +24,12 @@
             {
               "packager": "SecurityPlatform",
               "name": "axsign",
-              "version": "1.0.0"
+              "version": "1.1.0"
             },
             {
               "packager": "SecurityPlatform",
               "name": "axtool",
-              "version": "1.1.0"
+              "version": "1.2.0"
             },
             {
               "packager": "arduino",
@@ -42,55 +42,55 @@
       "tools": [
         {
           "name": "axtool",
-          "version": "1.1.0",
+          "version": "1.2.0",
           "systems": [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.1.0-linux_64bit.tar.gz?raw=true",
-              "archiveFileName": "axtool-1.1.0-linux_64bit.tar.gz",
-              "checksum": "SHA-256:3e719bb8ec8996104ef0d7eb77b03bd9ce2df33c528468dd64b3d0759ea76ea2",
-              "size": "843228"
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.2.0-linux_64bit.tar.gz?raw=true",
+              "archiveFileName": "axtool-1.2.0-linux_64bit.tar.gz",
+              "checksum": "SHA-256:7f198846718e54940670b832e75380bf081fed4f57e63e9ab957f11c0484155c",
+              "size": "843993"
             },
             {
               "host": "i686-linux-gnu",
-              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.1.0-linux_32bit.tar.gz?raw=true",
-              "archiveFileName": "axtool-1.1.0-linux_32bit.tar.gz",
-              "checksum": "SHA-256:0a9ba31628d1c2e1d8b5f6568e31a7972d0ca26e02d0847f66be2dfdb19ab747",
-              "size": "607884"
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.2.0-linux_32bit.tar.gz?raw=true",
+              "archiveFileName": "axtool-1.2.0-linux_32bit.tar.gz",
+              "checksum": "SHA-256:f70a6410e4ec1100b90d603448fe25efe21ef49f479e09bad73295db01389d48",
+              "size": "607612"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.1.0-windows.zip?raw=true",
-              "archiveFileName": "axtool-1.1.0-windows.zip",
-              "checksum": "SHA-256:020c2d7fbfd7609c2e6b9efdb46e7e8b770e226874cf1e3cb25b82d47bbeb2aa",
-              "size": "629082"
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.2.0-windows.zip?raw=true",
+              "archiveFileName": "axtool-1.2.0-windows.zip",
+              "checksum": "SHA-256:8b922e948bf1e1cc6c3352a3b6cc63c76fc09fec48d5bcde0fb562f659355b7b",
+              "size": "629390"
             }
           ]
         },
         {
           "name": "axsign",
-          "version": "1.0.0",
+          "version": "1.1.0",
           "systems": [
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axsign-1.0.0-linux_64bit.tar.gz?raw=true",
-              "archiveFileName": "axsign-1.0.0-linux_64bit.tar.gz",
-              "checksum": "SHA-256:82d2bd4131ae6933b6de78195eb3aee89f0d3b8643bbdf3add28dafe39528a8c",
-              "size": "742193"
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axsign-1.1.0-linux_64bit.tar.gz?raw=true",
+              "archiveFileName": "axsign-1.1.0-linux_64bit.tar.gz",
+              "checksum": "SHA-256:b33d214a7f6dc0012f4ef9f7cf7237860c3bd7d82674c9647fe87e29b5315224",
+              "size": "742106"
             },
             {
               "host": "i686-linux-gnu",
-              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axsign-1.0.0-linux_32bit.tar.gz?raw=true",
-              "archiveFileName": "axsign-1.0.0-linux_32bit.tar.gz",
-              "checksum": "SHA-256:5041244bf744b03ee808a098514c94fd937773a93cca7bddfb98076e1ae0be81",
-              "size": "544655"
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axsign-1.1.0-linux_32bit.tar.gz?raw=true",
+              "archiveFileName": "axsign-1.1.0-linux_32bit.tar.gz",
+              "checksum": "SHA-256:a91ed6bb7ce035c29df9c0dbe3c1f4d1644283736b8bb3f10559685e4cee3f51",
+              "size": "544670"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axsign-1.0.0-windows.zip?raw=true",
-              "archiveFileName": "axsign-1.0.0-windows.zip",
-              "checksum": "SHA-256:04966b145629df43b1ef4225aa5319c71e9bb6df296f6c14123f6ee0de04e5a9",
-              "size": "566023"
+              "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axsign-1.1.0-windows.zip?raw=true",
+              "archiveFileName": "axsign-1.1.0-windows.zip",
+              "checksum": "SHA-256:fa0a9df36b502a9be66fb278f87011dd8e176af4871bf331f9e39f2943d875a9",
+              "size": "565902"
             }
           ]
         }
