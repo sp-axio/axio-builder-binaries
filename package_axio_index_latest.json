@@ -48,15 +48,16 @@
               "host": "x86_64-linux-gnu",
               "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.2.2-linux_64bit.tar.gz?raw=true",
               "archiveFileName": "axtool-1.2.2-linux_64bit.tar.gz",
-              "checksum": "SHA-256:a5df019a0f052be315e985c23d3fb72a78df7ded86980e131a3f068d2640140b",
-              "size": "843941"
+              "checksum": "SHA-256:6a4fe77be7c88554019506b2641655ec83b6f187afacac679e6f34a8206c7fe3",
+			  
+              "size": "843896"
             },
             {
               "host": "i686-linux-gnu",
               "url": "https://github.com/sp-axio/axio-builder-binaries/blob/master/axtool-1.2.2-linux_32bit.tar.gz?raw=true",
               "archiveFileName": "axtool-1.2.2-linux_32bit.tar.gz",
-              "checksum": "SHA-256:ef5b8bdfbbdadb11c43b4b71ffbc3d59e7481f4db45602f8c53494697541564c",
-              "size": "608340"
+              "checksum": "SHA-256:156e6b33edeb2850c77de66960805a63020f836b02d80d6a7d23e09fd2ba9b43",
+              "size": "607679"
             },
             {
               "host": "i686-mingw32",
